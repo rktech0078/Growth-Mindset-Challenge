@@ -10,7 +10,7 @@ st.set_page_config(page_title="GEN AI - Growth Mindset Challenge", layout="cente
 # Title & Intro
 st.title("🌱 Growth Mindset Challenge")
 st.markdown("""
-**I, Abdul Rafay, have been given the Growth Mindset Challenge as a project by our mentor, Sir Zia Ullah Khan.**  
+**I have been given the Growth Mindset Challenge as a project by our mentor, Sir Zia Ullah Khan.**  
 This challenge focuses on learning, adapting, and overcoming failures. 🚀  
 To make data handling easier, I built this **web app using Streamlit & Python**, featuring:
 - ✅ **CSV to Excel & Excel to CSV Conversion**  
